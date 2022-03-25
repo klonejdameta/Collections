@@ -11,7 +11,6 @@ public class FirstElementOutput {
         num.add(8);
         num.add(10);
         System.out.println("Original Queue "+num);
-
         System.out.println("First element of Queue" +num.peek());
     }
 }
